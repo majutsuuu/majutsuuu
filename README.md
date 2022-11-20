@@ -1,6 +1,7 @@
 # Hi there 👋
 
 Wanna be Game Developer meanwhile working to be a Full Stack Developer
+<br>
 
 
 
@@ -24,8 +25,7 @@ Wanna be Game Developer meanwhile working to be a Full Stack Developer
 
 
 
-
-
+</br>
 
 ### Socials:
 <p align="left" >
