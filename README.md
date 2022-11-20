@@ -2,6 +2,31 @@
 
 Wanna be Game Developer meanwhile working to be a Full Stack Developer
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Socials:
 <p align="left" >
   <a href="https://www.linkedin.com/in/samuel-ziskovich-624b8323a/">
