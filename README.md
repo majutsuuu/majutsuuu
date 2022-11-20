@@ -1,5 +1,20 @@
 # Hi there 👋
 
+Wanna be game developer meanwhile doing the best i can 
+
+### Socials:
+<p align="left" >
+  <a href="https://www.linkedin.com/in/samuel-ziskovich-624b8323a/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" />
+  </a>
+    <a href="https://www.instagram.com/samuel_ze_boy/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50" />
+  </a>
+    <a href="https://twitter.com/majutsu5">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/800px-Twitter-logo.svg.png" width="50" />
+
+</p>
+
 ### Languages and Tools:
 <p align="left" >
   <a href="https://www.w3schools.com/cs/index.php">
