@@ -38,5 +38,3 @@ Wanna be game developer meanwhile doing the best i can
   
 </p>
 
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rw40mo5akm9vizgg3u5j0qgfb&cover_image=false&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=rw40mo5akm9vizgg3u5j0qgfb&redirect=true)
